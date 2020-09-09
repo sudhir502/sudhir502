@@ -51,9 +51,9 @@
 
 <br />
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhir205&theme=dracula)](https://github.com/Sudhir205/github-readme-stats)
-![Sudhir's github stats](https://github-readme-stats.vercel.app/api?username=Sudhir205&show_icons=true&theme=dracula)
-[![Sudhir's Card](https://github-readme-stats.vercel.app/api/pin/?username=sudhir502&repo=training&theme=dracula)](https://github.com/sudhir502/training)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhir205&theme=synthwave)](https://github.com/Sudhir205/github-readme-stats)
+![Sudhir's github stats](https://github-readme-stats.vercel.app/api?username=Sudhir205&show_icons=true&theme=tokyonight)
+[![Sudhir's Card](https://github-readme-stats.vercel.app/api/pin/?username=sudhir502&repo=training&theme=dark)](https://github.com/sudhir502/training)
 
 <br />
 
