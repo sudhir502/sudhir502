@@ -52,10 +52,6 @@
 
 ---
 
-START_SECTION:activity
-
----
-
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhir205&theme=onedark)](https://github.com/Sudhir205/github-readme-stats)
 ![Sudhir's github stats](https://github-readme-stats.vercel.app/api?username=Sudhir205&show_icons=true&theme=dracula)
 
