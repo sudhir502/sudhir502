@@ -43,6 +43,8 @@
   <img align="left" alt="git-icon" width="22px" src="http://simpleicons.org/icons/git.svg" />
 <p/>
 
+---
+
 <br />
 <br />
 
