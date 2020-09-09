@@ -5,7 +5,7 @@
 - 👨‍💻 I'm currently learning Android App Development 📱 and Data Science 📊
 - 🤪 Fun Fact: I convert coffee ☕ into code 📃
 
-### 📎 Connect with me:
+## 📎 Connect with me:
 
 [<img align="left" alt="facebook-icon" width="22px" src="http://simpleicons.org/icons/facebook.svg"/>][facebook]
 [<img align="left" alt="instagram-icon" width="22px" src="http://simpleicons.org/icons/instagram.svg"/>][instagram]
@@ -15,7 +15,7 @@
 
 <br />
 
-### 🧰 Programming Languages and Tools:
+## 🧰 Programming Languages and Tools:
 
 <p align="left">
   <img align="left" alt="html5-icon" width="22px" src="http://simpleicons.org/icons/html5.svg" />
@@ -44,7 +44,7 @@
 <br />
 <br />
 
-### 🔊 Languages known:
+## 🔊 Languages known:
 - Tamil - <i>Native Speaker</i>
 - English - <i>Professional Working Proficiency</i>
 
