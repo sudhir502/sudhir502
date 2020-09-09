@@ -44,6 +44,7 @@
 <p/>
 
 <br />
+<br />
 
 ### 🗣 Languages known:
 - Tamil - <i>Native Speaker</i>
@@ -52,10 +53,9 @@
 <br />
 <br />
 
-<!--START_SECTION:activity-->
+---
 
-<br />
-<br />
+<img align="left alt="Sudhir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sudhir502&show_icons=true&theme=radical"/>
 
 [facebook]: https://fb.com/sudhir.babusivaraman.58
 [instagram]: https://instagram.com/sudhir.2001
