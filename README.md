@@ -55,7 +55,7 @@
 
 ---
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhir502)](https://github.com/sudhir502/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhir502&theme=radical)](https://github.com/sudhir502/github-readme-stats)
 ![Sudhir's github stats](https://github-readme-stats.vercel.app/api?username=sudhir502&show_icons=true&theme=radical)
 
 <br />
