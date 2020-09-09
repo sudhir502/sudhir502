@@ -1,7 +1,7 @@
 ### Hi there, I'm Sudhir 👋
 
 ## I'm a Electronics and Communication Engineer and a passionate MERN Stack Developer
-- I'm currently studying at <a href="https://kce.ac.in/">Karpagam College of Engineering</a>, Coimbatore
+- 👨‍🎓 I'm currently studying at <a href="https://kce.ac.in/" target="_blank">Karpagam College of Engineering</a>, Coimbatore
 - 👨‍💻 I'm currently learning Android App Development 📱 and Data Science 📊
 - 🤪 Fun Fact: I convert coffee ☕ into code 📃
 
