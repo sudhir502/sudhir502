@@ -26,7 +26,7 @@
   <img align="left" alt="scala-icon" width="22px" src="http://simpleicons.org/icons/scala.svg" />
   <img align="left" alt="r-icon" width="22px" src="http://simpleicons.org/icons/r.svg" />
   <img align="left" alt="dart" width="22px" src="https://simpleicons.org/icons/dart.svg">
-  <img align="left" alt="flutter" width="22px" src="https://simpleicons.org/icons/flutter.svg />
+  <img align="left" alt="flutter" width="22px" src="https://simpleicons.org/icons/flutter.svg" />
   <img align="left" alt="apachespark-icon" width="22px" src="http://simpleicons.org/icons/apachespark.svg" />
   <img align="left" alt="firebase-icon" width="22px" src="http://simpleicons.org/icons/firebase.svg" />
   <img align="left" alt="aws-icon" width="22px" src="http://simpleicons.org/icons/amazonaws.svg" />
